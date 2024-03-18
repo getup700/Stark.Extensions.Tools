@@ -9,6 +9,8 @@
 		<Company>Stark</Company>
 		<Description>This is a dotnet extension package.</Description>
 		<PackageVersion>1.0.1-alpha</PackageVersion>
+		<RepositoryUrl>https://github.com/getup700/Stark.Extensions.Tools</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	</PropertyGroup>
 
 </Project>
